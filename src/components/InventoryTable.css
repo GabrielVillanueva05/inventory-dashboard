@@ -1,0 +1,36 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #1e1f26;
+}
+
+th {
+  padding: 14px 16px;
+  text-align: left;
+  border-bottom: 1px solid #3a3b44;
+}
+
+td {
+  padding: 14px 16px;
+  border-bottom: 1px solid #2d2e36;
+}
+
+.status-low,
+.status-good {
+  padding: 6px 10px;
+  border-radius: 12px;
+  font-size: 13px;
+}
+
+.status-good {
+  background-color: #1f3d2b;
+  color: #7ee2a8;
+}
+
+.status-low {
+  background-color: #4a2525;
+  color: #ff8a8a;
+}
