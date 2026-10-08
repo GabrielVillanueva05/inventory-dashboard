@@ -1,16 +1,35 @@
-# React + Vite
+# Inventory Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a responsive Inventory dashboard allowing users to view, filter and search for data on products.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 3 Cards displaying total product count, number of low stock products, and total units
+- A search bar that updates the product table in real time as the user types.
+- A button filtering the table display between all products and only "low stock" products
+- A table with three columns: product, stock and status.
+- Table rows including product title, product stock count and product status.
+- Application is responsive and reacts appropriately to a smaller or larger display according to the user's device
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- CSS
+- Vite
+- DummyJSON Products API
 
-## Expanding the ESLint configuration
+## Running the Project Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+2. Install dependencies:
+
+   npm install
+
+3. Start the development server:
+
+   npm run dev
+
+## Live Demo
+
+Coming soon.
