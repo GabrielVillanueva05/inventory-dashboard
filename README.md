@@ -32,4 +32,4 @@ This project is a responsive Inventory dashboard allowing users to view, filter 
 
 ## Live Demo
 
-Coming soon.
+[View the live application](YOUR-NETLIFY-URL-HERE)
