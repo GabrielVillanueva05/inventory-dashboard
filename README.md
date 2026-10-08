@@ -32,4 +32,4 @@ This project is a responsive Inventory dashboard allowing users to view, filter 
 
 ## Live Demo
 
-[View the live application](gabriel-inventory-dashboard.netlify.app)
+[View the live application](https://gabriel-inventory-dashboard.netlify.app/)
