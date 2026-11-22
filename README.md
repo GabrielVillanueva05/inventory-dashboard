@@ -2,6 +2,16 @@
 
 This project is a responsive Inventory dashboard allowing users to view, filter and search for data on products.
 
+## Video Walkthrough
+
+<img src="./inventorydashboard.gif" alt="EcommerceHub Demo" width="700">
+
+gif created using *ezgif.com*
+
+## Live Demo
+
+[View the live application](https://gabriel-inventory-dashboard.netlify.app/)
+
 ## Features
 
 - 3 Cards displaying total product count, number of low stock products, and total units
@@ -30,6 +40,4 @@ This project is a responsive Inventory dashboard allowing users to view, filter 
 
    npm run dev
 
-## Live Demo
 
-[View the live application](https://gabriel-inventory-dashboard.netlify.app/)
